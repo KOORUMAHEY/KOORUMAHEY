@@ -1,165 +1,444 @@
-# 👋 Hey there, I'm KOORU MAHEY
-
 <div align="center">
-  
-[![Website](https://img.shields.io/badge/🌐_koorumahey.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://koorumahey.com)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Open+Source+Enthusiast;Building+the+Future+🚀)](https://git.io/typing-svg)
+
+# 🚀 WELCOME TO KOORU'S DIGITAL UNIVERSE 🌌
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KOORU%20MAHEY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect%20%7C%20Tech%20Innovator&descSize=16&descAlignY=51"/>
+
+<p align="center">
+  <a href="https://koorumahey.com">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-koorumahey.com-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000&color=00D9FF"/>
+  </a>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=👨‍💻+Crafting+Digital+Experiences+Since+Forever;🎨+Where+Creativity+Meets+Code;⚡+Turning+Coffee+Into+Code+%7C+Bugs+Into+Features;🚀+Building+Tomorrow's+Technology+Today)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
-## 🎯 About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```typescript
-const kooru = {
-    pronouns: "he/him",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "design"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "Nest.js"],
-            python: ["Django", "FastAPI"],
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-        tools: ["Git", "Figma", "Postman", "VS Code"]
-    },
-    currentFocus: "Building scalable applications & exploring AI/ML",
-    funFact: "I debug with console.log() and I'm not ashamed!"
-};
+### 🧙‍♂️ About The Code Wizard
+
+```javascript
+class KooruMahey extends Developer {
+  constructor() {
+    super();
+    this.name = "Kooru Mahey";
+    this.role = "Full Stack Sorcerer";
+    this.location = "🌍 Building from Anywhere";
+    this.website = "koorumahey.com";
+  }
+  
+  getCurrentStatus() {
+    return {
+      💼: "Open to exciting opportunities",
+      🎯: "Mastering cloud architecture",
+      🔭: "Exploring AI/ML & Web3",
+      🌱: "Learning Rust & Go",
+      ⚡: "Fun fact: I dream in code",
+      🎮: "Gaming when not coding",
+      ☕: "Powered by coffee & curiosity"
+    };
+  }
+  
+  getSkillSet() {
+    return {
+      languages: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Go", "Rust"],
+      frontend: ["React", "Next.js", "Vue.js", "Svelte", "Angular"],
+      backend: ["Node.js", "Django", "FastAPI", "Express", "NestJS"],
+      mobile: ["React Native", "Flutter"],
+      databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
+      cloud: ["AWS", "Google Cloud", "Azure", "Vercel", "Netlify"],
+      devOps: ["Docker", "Kubernetes", "Jenkins", "GitHub Actions"],
+      tools: ["Git", "Figma", "Postman", "VS Code", "Linux"],
+      other: ["GraphQL", "REST APIs", "WebSockets", "Microservices"]
+    };
+  }
+}
+
+const kooru = new KooruMahey();
+console.log(kooru.getCurrentStatus());
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🔥 My GitHub Stats
-
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+## 🎯 MY CODING ARSENAL
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+
+### 🔮 Languages & Frameworks
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+    <br>JavaScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+    <br>TypeScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+    <br>Python
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+    <br>Java
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+    <br>C++
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+    <br>Go
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+    <br>Rust
+  </td>
+</tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+    <br>React
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+    <br>Next.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+    <br>Vue
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
+    <br>Svelte
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+    <br>Node.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+    <br>Django
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+    <br>FastAPI
+  </td>
+</tr>
+</table>
+
+### 🛠️ Tools & Technologies
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+    <br>Docker
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+    <br>Kubernetes
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+    <br>AWS
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+    <br>GCP
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+    <br>Azure
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+    <br>MongoDB
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+    <br>PostgreSQL
+  </td>
+</tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+    <br>Redis
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+    <br>GraphQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+    <br>Git
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+    <br>GitHub
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+    <br>VS Code
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+    <br>Figma
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+    <br>Linux
+  </td>
+</tr>
+</table>
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 📊 GITHUB STATISTICS
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=Kooru's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" />
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+<details>
+<summary>📈 Click to see detailed stats</summary>
+<br>
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&hide_border=false&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border=00D9FF" />
+</p>
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&hide_border=false&langs_count=10" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=react&utcOffset=8" />
+</p>
 
-</div>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=react" />
 
----
+</details>
 
-## 📊 Activity Graph
-
-<div align="center">
-  
-[![Kooru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=FF6B6B&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 💻 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO_NAME_1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO_NAME_2)
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-koorumahey.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://koorumahey.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&hide_border=false" />
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+## 🏆 ACHIEVEMENTS & TROPHIES
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
-### ✨ Profile Views
-![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
-
-### 🎵 Currently Vibing To
-[![Spotify](https://novatorem-koorumahey.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+</div>
 
 ---
 
-**"Code is like humor. When you have to explain it, it's bad!"** 💻✨
+<div align="center">
 
-⭐️ From [KOORU MAHEY](https://github.com/YOUR_GITHUB_USERNAME)
+## 🎨 FEATURED MASTERPIECES
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Project Alpha
+![Project](https://img.shields.io/badge/Status-Live-success?style=flat-square&logo=vercel)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/PROJECT_1?style=flat-square&logo=github)
+![Forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/PROJECT_1?style=flat-square&logo=github)
+
+**An innovative platform that revolutionizes...**
+
+`React` `Node.js` `MongoDB` `AWS`
+
+[🔗 Live Demo](https://project1.com) • [📂 Repository](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1)
+
+</td>
+<td width="50%">
+
+### 🎯 Project Beta
+![Project](https://img.shields.io/badge/Status-Development-yellow?style=flat-square)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/PROJECT_2?style=flat-square&logo=github)
+![Forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/PROJECT_2?style=flat-square&logo=github)
+
+**A cutting-edge solution for...**
+
+`Next.js` `TypeScript` `PostgreSQL` `Docker`
+
+[🔗 Live Demo](https://project2.com) • [📂 Repository](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💎 Project Gamma
+![Project](https://img.shields.io/badge/Status-Beta-blue?style=flat-square)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/PROJECT_3?style=flat-square&logo=github)
+![Forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/PROJECT_3?style=flat-square&logo=github)
+
+**Smart automation tool that...**
+
+`Python` `FastAPI` `Redis` `Kubernetes`
+
+[🔗 Live Demo](https://project3.com) • [📂 Repository](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_3)
+
+</td>
+<td width="50%">
+
+### ⚡ Project Delta
+![Project](https://img.shields.io/badge/Status-Coming_Soon-lightgrey?style=flat-square)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/PROJECT_4?style=flat-square&logo=github)
+![Forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/PROJECT_4?style=flat-square&logo=github)
+
+**Next-gen application for...**
+
+`Rust` `WebAssembly` `GraphQL` `Microservices`
+
+[🔗 Live Demo](https://project4.com) • [📂 Repository](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_4)
+
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📝 LATEST BLOG POSTS
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 [How I Built a Scalable Microservices Architecture](https://koorumahey.com/blog/post1)
+- 💡 [10 Advanced React Patterns You Should Know](https://koorumahey.com/blog/post2)
+- 🚀 [Optimizing Performance in Next.js Applications](https://koorumahey.com/blog/post3)
+- 🎯 [My Journey from Beginner to Full Stack Developer](https://koorumahey.com/blog/post4)
+<!-- BLOG-POST-LIST:END -->
+
+<a href="https://koorumahey.com/blog">
+  <img src="https://img.shields.io/badge/Read_More-00D9FF?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎵 CURRENTLY VIBING TO
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=00D9FF)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 RANDOM DEV WISDOM
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)
+
+<img src="https://readme-jokes.vercel.app/api?theme=react&hideBorder" alt="Jokes Card" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 LET'S CONNECT & COLLABORATE
+
+<a href="https://koorumahey.com">
+  <img src="https://img.shields.io/badge/Website-koorumahey.com-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discord.gg/YOUR_DISCORD">
+  <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<br><br>
+
+### 📧 Open for:
+`💼 Freelance Projects` • `🤝 Collaborations` • `💡 Innovative Ideas` • `🎓 Mentorship`
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎮 WHEN I'M NOT CODING
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+**🎸 Music Enthusiast** • **🎮 Gamer** • **📚 Avid Reader** • **✈️ Travel Lover** • **☕ Coffee Connoisseur**
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 PROFILE INSIGHTS
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=00D9FF&logo=github)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Total%20Stars&style=for-the-badge&color=00D9FF&logo=github)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_GITHUB_USERNAME&theme=react&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 THOUGHT OF THE DAY
+
+**"First, solve the problem. Then, write the code."** - John Johnson
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
+  Thanks for stopping by! Let's build something amazing together! 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" width="35" />
+</h3>
+
+**Show some ❤️ by starring ⭐ some repositories!**
 
 </div>
