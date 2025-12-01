@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 WELCOME TO KOORU'S DIGITAL UNIVERSE 🌌
+# 🚀 WELCOME TO KM's DIGITAL UNIVERSE 🌌
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KOORU%20MAHEY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect%20%7C%20Tech%20Innovator&descSize=16&descAlignY=51"/>
 
@@ -48,7 +48,7 @@ class KooruMahey extends Developer {
   getSkillSet() {
     return {
       languages: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Go", "Rust"],
-      frontend: ["React", "Next.js", "Vue.js", "Svelte", "Angular"],
+      frontend: ["React", "Next.js", "Angular"],
       backend: ["Node.js", "Django", "FastAPI", "Express", "NestJS"],
       mobile: ["React Native", "Flutter"],
       databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
@@ -121,14 +121,6 @@ console.log(kooru.getCurrentStatus());
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
     <br>Next.js
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-    <br>Vue
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
-    <br>Svelte
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
@@ -388,28 +380,6 @@ console.log(kooru.getCurrentStatus());
 
 <div align="center">
 
-## 📝 CODING ACTIVITY
-
-![Kooru's LeetCode Stats](https://leetcard.jacoblin.cool/KOORUMAHEY?theme=dark&font=Ubuntu&ext=heatmap)
-
-</div>
-
----
-
-<div align="center">
-
-## 💬 RANDOM DEV WISDOM
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<img src="https://readme-jokes.vercel.app/api?theme=react&hideBorder" alt="Jokes Card" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🤝 LET'S CONNECT & COLLABORATE
 
 <a href="https://koorumahey.com">
@@ -442,7 +412,7 @@ console.log(kooru.getCurrentStatus());
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-**🎸 Music Enthusiast** • **🎮 Gamer** • **📚 Avid Reader** • **✈️ Travel Lover** • **☕ Coffee Connoisseur** • **🏏 Cricket Fan**
+**🎸 Music Enthusiast** • **🎮 Gamer** • **✈️ Solo Travel Lover** • **☕ Coffee Connoisseur** • **🏏 Cricket Fan**
 
 </div>
 
@@ -464,9 +434,7 @@ console.log(kooru.getCurrentStatus());
 
 ### 💭 DEVELOPER PHILOSOPHY
 
-**"First, solve the problem. Then, write the code."** - John Johnson
-
-**"Code is poetry written for machines but read by humans."** - Kooru Mahey
+**"Coding is a Art. And KM is the Artist".**
 
 ---
 
