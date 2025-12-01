@@ -210,7 +210,7 @@ console.log(kooru.getCurrentStatus());
 
 ## 📊 GITHUB STATISTICS
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KOORUMAHEY&custom_title=Kooru's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KOORUMAHEY&custom_title=KM's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" />
 
 <details>
 <summary>📈 Click to see detailed stats</summary>
@@ -248,7 +248,7 @@ console.log(kooru.getCurrentStatus());
 
 ## 🎨 FEATURED MASTERPIECES
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> -->
 
 </div>
 
