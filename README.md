@@ -294,7 +294,7 @@ console.log(kooru.getCurrentStatus());
 
 ## 📊 GITHUB STATISTICS
 
-<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=KOORUMAHEY&custom_title=KM's%20Contribution%20Graph&bg_color=1a1a2e&color=4ECDC4&line=FFE66D&point=FF6B6B&area_color=4ECDC4&area=true&hide_border=true](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KOORUMAHEY&theme=2077)" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KOORUMAHEY&custom_title=KM's%20Contribution%20Graph&bg_color=1a1a2e&color=4ECDC4&line=FFE66D&point=FF6B6B&area_color=4ECDC4&area=true&hide_border=true](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KOORUMAHEY&theme=2077)" />
 
 <br><br>
 
