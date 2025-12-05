@@ -1,206 +1,307 @@
 <div align="center">
 
-# 🚀 WELCOME TO KM's DIGITAL UNIVERSE 🌌
+<!-- Holographic Header -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=KOORU%20MAHEY&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=◇%20CODE%20ARCHITECT%20◇%20FULL%20STACK%20ALCHEMIST%20◇&descSize=14&descAlignY=60" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KOORU%20MAHEY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect%20%7C%20Tech%20Innovator&descSize=16&descAlignY=51"/>
-
+<!-- Animated Typing -->
 <p align="center">
-  <a href="https://koorumahey.com">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-koorumahey.com-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000&color=00D9FF"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%E2%9A%A1+Transforming+Ideas+Into+Digital+Reality;%F0%9F%8C%8A+Riding+The+Wave+of+Innovation;%F0%9F%94%AE+Where+Magic+Meets+Code+%7C+Puducherry" alt="Typing SVG" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=KOORUMAHEY&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=👨‍💻+Crafting+Digital+Experiences+%7C+Puducherry;🎨+Where+Creativity+Meets+Code;⚡+Turning+Coffee+Into+Code+%7C+Bugs+Into+Features;🚀+Building+Tomorrow's+Technology+Today)](https://git.io/typing-svg)
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<!-- Neon Badge Row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐_koorumahey.com-LIVE-FF00FF?style=for-the-badge&logoColor=white&labelColor=000&color=FF00FF&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyQzIgMTcuNTIgNi40OCAyMiAxMiAyMkMxNy41MiAyMiAyMiAxNy41MiAyMiAxMkMyMiA2LjQ4IDE3LjUyIDIgMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=" alt="Portfolio"/>
+  <img src="https://komarev.com/ghpvc/?username=KOORUMAHEY&label=VISITORS&color=667eea&style=for-the-badge&logo=eye" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/KOORUMAHEY?label=FOLLOWERS&style=for-the-badge&color=764ba2&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20🚀-00FF00?style=for-the-badge&logoColor=white&labelColor=000" alt="Status"/>
+</p>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!-- Neon Grid Layout -->
+<table width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
 
-### 🧙‍♂️ About The Code Wizard
+### ⚡ THE DIGITAL SORCERER
 
-```javascript
-class KooruMahey extends Developer {
-  constructor() {
-    super();
-    this.name = "Kooru Mahey";
-    this.role = "Full Stack Sorcerer";
-    this.location = "📍 Puducherry, India";
-    this.website = "https://koorumahey.com";
-  }
-  
-  getCurrentStatus() {
-    return {
-      💼: "Building impactful healthcare & edu solutions",
-      🎯: "Mastering cloud architecture & scalability",
-      🔭: "Exploring AI/ML & Modern Web Technologies",
-      🌱: "Learning advanced system design patterns",
-      ⚡: "Fun fact: I dream in code and debug in sleep",
-      🎮: "Gaming when not coding",
-      ☕: "Powered by coffee & curiosity"
-    };
-  }
-  
-  getSkillSet() {
-    return {
-      languages: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Go", "Rust"],
-      frontend: ["React", "Next.js", "Angular"],
-      backend: ["Node.js", "Django", "FastAPI", "Express", "NestJS"],
-      mobile: ["React Native", "Flutter"],
-      databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
-      cloud: ["AWS", "Google Cloud", "Azure", "Vercel", "Netlify"],
-      devOps: ["Docker", "Kubernetes", "Jenkins", "GitHub Actions"],
-      tools: ["Git", "Figma", "Postman", "VS Code", "Linux"],
-      specializations: ["Healthcare Systems", "Educational Platforms", 
-                       "Appointment Management", "Real-time Applications"]
-    };
-  }
-}
+```python
+class DigitalAlchemist:
+    def __init__(self):
+        self.identity = {
+            "name": "Kooru Mahey",
+            "role": "Full Stack Architect",
+            "location": "📍 Puducherry, India",
+            "mindset": "Innovation First 🧠",
+            "fuel": "Coffee ☕ + Code 💻"
+        }
+        
+    def current_mission(self):
+        return {
+            "🎯": "Building scalable healthcare systems",
+            "🔬": "Exploring AI/ML frontiers",
+            "🌊": "Diving deep into cloud architecture",
+            "💡": "Creating impactful EdTech solutions",
+            "🎮": "Gaming & debugging simultaneously",
+            "🚀": "Launching tomorrow's tech today"
+        }
+    
+    def life_philosophy(self):
+        return "Code is poetry, bugs are plot twists! 🎭"
 
-const kooru = new KooruMahey();
-console.log(kooru.getCurrentStatus());
+# Initialize
+wizard = DigitalAlchemist()
+print(wizard.life_philosophy())
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🎨 TECH CONSTELLATION
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+
+<!-- Skill Pills -->
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+**Specialties:** Healthcare Tech • EdTech Platforms • Cloud Architecture • Real-time Systems
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 🎯 MY CODING ARSENAL
+## 🔮 ARSENAL OF INNOVATION
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"/>
 
-### 🔮 Languages & Frameworks
+</div>
 
-<table>
+<!-- Hexagon Tech Grid -->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,react,nextjs,nodejs,express,nestjs,django,fastapi,angular,vue,mongodb,postgres,mysql,redis,graphql,docker,kubernetes,aws,gcp,azure,git,github,gitlab,figma,vscode,linux&perline=16" />
+</p>
+
+---
+
+<div align="center">
+
+## 🎯 LEGENDARY PROJECTS
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"/>
+
+</div>
+
+<!-- Project Cards with Neon Effect -->
+<table width="100%">
 <tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-    <br>JavaScript
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-    <br>TypeScript
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-    <br>Python
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-    <br>Java
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-    <br>C++
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-    <br>Go
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-    <br>Rust
-  </td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🏥 NIVARTHI
+**JIPMER Appointment System**
+
+<img src="https://img.shields.io/badge/STATUS-🟢_LIVE-00FF00?style=flat-square&labelColor=000"/>
+
+</div>
+
+Revolutionary healthcare appointment management serving JIPMER with:
+- 🔄 Real-time booking engine
+- 📱 SMS/Email notifications
+- 🔐 Secure patient records
+- 📊 Analytics dashboard
+
+`Healthcare` `Appointment System` `Patient Portal` `Real-time`
+
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 👷 KEY MANPOWER
+**Workforce Management Platform**
+
+<img src="https://img.shields.io/badge/STATUS-🟢_PRODUCTION-00FF00?style=flat-square&labelColor=000"/>
+
+</div>
+
+Enterprise-grade engineer supervision system featuring:
+- 🎯 Real-time tracking
+- 📈 Performance analytics
+- 🤖 Smart allocation
+- 📱 Mobile supervision
+
+`Enterprise` `Workforce` `Real-time Tracking` `Analytics`
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 📚 KNOWLEDGE MINDS
+**University Scheduler**
+
+<img src="https://img.shields.io/badge/STATUS-🟢_LIVE-00FF00?style=flat-square&labelColor=000"/>
+
+</div>
+
+Intelligent timetable automation for Pondicherry University:
+- 🧠 AI-powered scheduling
+- ⚡ Conflict resolution
+- 🎓 Multi-portal access
+- 🔄 Auto-generation
+
+`EdTech` `Smart Scheduling` `Algorithm` `Academic`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+</td>
 </tr>
 <tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-    <br>React
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-    <br>Next.js
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-    <br>Node.js
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-    <br>Django
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-    <br>FastAPI
-  </td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🦟 DENGUE CONNECT
+**Disease Surveillance Platform**
+
+<img src="https://img.shields.io/badge/STATUS-🔬_RESEARCH-0099FF?style=flat-square&labelColor=000"/>
+
+</div>
+
+Collaborative research platform with ICMR VCRC:
+- 📊 Real-time tracking
+- 🔬 Data collection
+- 🤖 Prediction models
+- 🗺️ Geographic mapping
+
+`Healthcare Research` `Disease Control` `Analytics` `Public Health`
+
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🚀 ENTERPRISE SCALE
+**Production Platform**
+
+<img src="https://img.shields.io/badge/STATUS-⚡_HIGH_TRAFFIC-FF0000?style=flat-square&labelColor=000"/>
+
+</div>
+
+Large-scale system handling thousands of users:
+- ☁️ Microservices architecture
+- 🔄 Auto-scaling infrastructure
+- ⚡ Advanced caching
+- 🛡️ High availability
+
+`Scalable` `Microservices` `Cloud` `Enterprise`
+
+<div align="center">
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 💡 NEXT GENERATION
+**Upcoming Innovations**
+
+<img src="https://img.shields.io/badge/STATUS-🔮_IN_DEVELOPMENT-FFFF00?style=flat-square&labelColor=000"/>
+
+</div>
+
+Cutting-edge projects in the pipeline:
+- 🤖 AI/ML integrations
+- ⛓️ Blockchain solutions
+- 🌐 IoT applications
+- 📱 Progressive Web Apps
+
+`Innovation` `AI/ML` `Blockchain` `IoT`
+
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+</div>
+
+</td>
 </tr>
 </table>
 
-### 🛠️ Tools & Technologies
+<div align="center">
 
-<table>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-    <br>Docker
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-    <br>Kubernetes
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-    <br>AWS
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-    <br>GCP
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-    <br>Azure
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-    <br>MongoDB
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-    <br>PostgreSQL
-  </td>
-</tr>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-    <br>Redis
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-    <br>GraphQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-    <br>Git
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-    <br>GitHub
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-    <br>VS Code
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-    <br>Figma
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-    <br>Linux
-  </td>
-</tr>
-</table>
+<a href="https://github.com/KOORUMAHEY?tab=repositories">
+  <img src="https://img.shields.io/badge/⚡_EXPLORE_ALL_PROJECTS-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=000" />
+</a>
 
 </div>
 
@@ -208,25 +309,49 @@ console.log(kooru.getCurrentStatus());
 
 <div align="center">
 
-## 📊 GITHUB STATISTICS
+## 📊 PERFORMANCE METRICS
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KOORUMAHEY&custom_title=KM's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KOORUMAHEY&custom_title=⚡%20Contribution%20Heatmap&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area_color=667eea&area=true&hide_border=true&height=300" width="100%"/>
+
+</div>
+
+<!-- Stats Grid -->
+<table width="100%">
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KOORUMAHEY&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&border_color=667eea&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KOORUMAHEY&theme=tokyonight&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=f093fb&border=667eea&stroke=667eea" width="100%"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOORUMAHEY&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=667eea&text_color=ffffff&border_color=667eea&langs_count=10&hide_border=false" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KOORUMAHEY&theme=tokyonight&utcOffset=5.5" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <details>
-<summary>📈 Click to see detailed stats</summary>
+<summary>🏆 Click to see Achievement Showcase</summary>
 <br>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KOORUMAHEY&show_icons=true&theme=react&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&hide_border=false&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KOORUMAHEY&theme=react&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border=00D9FF" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=KOORUMAHEY&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%"/>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOORUMAHEY&layout=compact&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&hide_border=false&langs_count=10" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KOORUMAHEY&theme=react&utcOffset=5.5" />
-</p>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KOORUMAHEY&theme=react" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KOORUMAHEY&theme=tokyonight" width="100%"/>
 
 </details>
 
@@ -236,143 +361,59 @@ console.log(kooru.getCurrentStatus());
 
 <div align="center">
 
-## 🏆 ACHIEVEMENTS & TROPHIES
+## 🌐 CONNECT & COLLABORATE
 
-<img src="https://github-profile-trophy.vercel.app/?username=KOORUMAHEY&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200"/>
 
-</div>
+<!-- Social Links -->
+<p align="center">
+  <a href="https://koorumahey.com">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-667eea?style=for-the-badge&logoColor=white&labelColor=000" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/kooru-mahey">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/_KooruMahey_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000" alt="Twitter"/>
+  </a>
+  <a href="https://leetcode.com/u/KOORUMAHEY/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000" alt="LeetCode"/>
+  </a>
+</p>
 
----
-
-<div align="center">
-
-## 🎨 FEATURED MASTERPIECES
-
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> -->
-
-</div>
+### 💼 OPEN FOR OPPORTUNITIES
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🚀 Large Scale Project (Live)
-![Status](https://img.shields.io/badge/Status-Live%20%26%20Growing-success?style=flat-square&logo=vercel)
-![Impact](https://img.shields.io/badge/Impact-High-red?style=flat-square)
-
-**A comprehensive enterprise-level solution currently serving users in production**
-
-`Scalable Architecture` `Microservices` `Cloud Infrastructure` `Real-time Updates`
-
-🔹 Production-ready application with high availability  
-🔹 Handling thousands of concurrent users  
-🔹 Advanced caching & optimization strategies  
-🔹 Continuous deployment pipeline
-
-[🔗 View Project](#) • [📊 Case Study](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Nivarthi - JIPMER Appointment System
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
-![Users](https://img.shields.io/badge/Users-Healthcare-blue?style=flat-square)
-
-**Streamlining healthcare appointments for JIPMER**
-
-`Healthcare Tech` `Appointment Management` `Patient Portal` `Real-time Booking`
-
-🔹 Integrated appointment booking system  
-🔹 Patient record management  
-🔹 SMS/Email notifications  
-🔹 Role-based access control
-
-[🔗 Live System](#) • [📂 Documentation](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👷 Key ManPower Supervision
-![Status](https://img.shields.io/badge/Status-Production-success?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Enterprise-orange?style=flat-square)
-
-**Engineers workforce management & supervision platform**
-
-`Workforce Management` `Real-time Tracking` `Resource Planning` `Analytics Dashboard`
-
-🔹 Real-time engineer tracking & allocation  
-🔹 Project assignment automation  
-🔹 Performance analytics & reporting  
-🔹 Mobile-responsive supervision tools
-
-[🔗 Platform](#) • [📈 Analytics](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Knowledge Minds Scheduler
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
-![Institution](https://img.shields.io/badge/Pondicherry-University-purple?style=flat-square)
-
-**Automated timetable application for Pondicherry University**
-
-`Educational Software` `Smart Scheduling` `Algorithm Optimization` `Academic Management`
-
-🔹 Intelligent conflict-free scheduling  
-🔹 Faculty & student portal access  
-🔹 Automated timetable generation  
-🔹 Resource optimization algorithms
-
-[🔗 View System](#) • [🎓 University Portal](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🦟 Dengue Connect
-![Status](https://img.shields.io/badge/Status-Research_Project-blue?style=flat-square)
-![Partners](https://img.shields.io/badge/ICMR_VCRC-Pondicherry_University-green?style=flat-square)
-
-**Disease surveillance & research platform for dengue outbreak management**
-
-`Healthcare Research` `Disease Surveillance` `Data Analytics` `Public Health`
-
-🔹 Real-time disease tracking system  
-🔹 Research data collection & analysis  
-🔹 Outbreak prediction models  
-🔹 Collaboration with ICMR VCRC
-
-[🔗 Research Portal](#) • [📊 Data Dashboard](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 More Projects Coming Soon...
-![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
-
-**Working on cutting-edge solutions**
-
-`Innovation` `Experimentation` `R&D`
-
-🔹 AI/ML Integration Projects  
-🔹 Blockchain Applications  
-🔹 IoT Solutions  
-🔹 Progressive Web Apps
-
-[🔗 GitHub Repos](https://github.com/KOORUMAHEY?tab=repositories)
-
-</td>
+<td align="center">💼<br><b>Freelance<br>Projects</b></td>
+<td align="center">🤝<br><b>Technical<br>Collaborations</b></td>
+<td align="center">🏥<br><b>Healthcare<br>Tech</b></td>
+<td align="center">📚<br><b>EdTech<br>Solutions</b></td>
+<td align="center">🎓<br><b>Mentorship<br>Sessions</b></td>
+<td align="center">💡<br><b>Innovative<br>Ideas</b></td>
 </tr>
 </table>
 
+</div>
+
+---
+
 <div align="center">
 
-<a href="https://github.com/KOORUMAHEY?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+## 🎮 BEYOND THE CODE
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+
+<table>
+<tr>
+<td align="center">🎸<br><b>Music<br>Enthusiast</b></td>
+<td align="center">🎮<br><b>Avid<br>Gamer</b></td>
+<td align="center">✈️<br><b>Solo<br>Traveler</b></td>
+<td align="center">☕<br><b>Coffee<br>Addict</b></td>
+<td align="center">🏏<br><b>Cricket<br>Fan</b></td>
+<td align="center">📚<br><b>Tech<br>Reader</b></td>
+</tr>
+</table>
 
 </div>
 
@@ -380,74 +421,37 @@ console.log(kooru.getCurrentStatus());
 
 <div align="center">
 
-## 🤝 LET'S CONNECT & COLLABORATE
+### 💭 CODE PHILOSOPHY
 
-<a href="https://koorumahey.com">
-  <img src="https://img.shields.io/badge/Portfolio-koorumahey.com-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/kooru-mahey">
-  <img src="https://img.shields.io/badge/LinkedIn-kooru--mahey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/_KooruMahey_">
-  <img src="https://img.shields.io/badge/Twitter-@__KooruMahey__-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/KOORUMAHEY/">
-  <img src="https://img.shields.io/badge/LeetCode-KOORUMAHEY-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-
-### 📧 Open for:
-`💼 Freelance Projects` • `🤝 Collaborations` • `💡 Innovative Ideas` • `🎓 Mentorship` • `🏥 Healthcare Tech` • `📚 EdTech Solutions`
-
-</div>
+> **"In a world of semicolons and syntax,**  
+> **I craft experiences that transcend pixels.**  
+> **Every bug is a lesson, every feature a story,**  
+> **And every commit brings us closer to digital glory."**  
+> **— KM** ✨
 
 ---
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🎮 WHEN I'M NOT CODING
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
-**🎸 Music Enthusiast** • **🎮 Gamer** • **✈️ Solo Travel Lover** • **☕ Coffee Connoisseur** • **🏏 Cricket Fan**
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 PROFILE INSIGHTS
-
-![Followers](https://img.shields.io/github/followers/KOORUMAHEY?label=Followers&style=for-the-badge&color=00D9FF&logo=github)
-![Stars](https://img.shields.io/github/stars/KOORUMAHEY?label=Total%20Stars&style=for-the-badge&color=00D9FF&logo=github)
-![Repos](https://img.shields.io/badge/Public_Repos-View_All-00D9FF?style=for-the-badge&logo=github)
-
-</div>
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KOORUMAHEY/KOORUMAHEY/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KOORUMAHEY/KOORUMAHEY/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KOORUMAHEY/KOORUMAHEY/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-<div align="center">
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/>
+  Thanks for diving into my digital universe! 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" width="30"/>
+</h2>
 
-### 💭 DEVELOPER PHILOSOPHY
+<h3>Let's build something extraordinary together! ⚡</h3>
 
-**"Coding is a Art. And KM is the Artist".**
+**Drop a ⭐ if you like what you see!**
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-<h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
-  Thanks for stopping by! Let's build something amazing together! 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" width="35" />
-</h3>
-
-**Show some ❤️ by starring ⭐ some repositories!**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
