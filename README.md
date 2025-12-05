@@ -302,7 +302,7 @@ console.log(kooru.getCurrentStatus());
 
 <!-- Stats Grid -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KOORUMAHEY&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=4ECDC4&icon_color=FFE66D&text_color=FFFFFF&border_color=4ECDC4&count_private=true&include_all_commits=true](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KOORUMAHEY&theme=2077)" alt="GitHub Stats" />
+  <img width="49%" src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KOORUMAHEY&theme=2077)" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=KOORUMAHEY&theme=radical&background=1a1a2e&ring=4ECDC4&fire=FF6B6B&currStreakLabel=FFE66D&border=4ECDC4" alt="GitHub Streak" />
 </p>
 
