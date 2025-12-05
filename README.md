@@ -18,7 +18,9 @@
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=👨‍💻+Crafting+Digital+Experiences+|+Puducherry;🎨+Where+Creativity+Meets+Code;⚡+Turning+Coffee+Into+Code+|+Bugs+Into+Features;🚀+Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Crafting+Digital+Experiences+%7C+Puducherry;%F0%9F%8E%A8+Where+Creativity+Meets+Code;%E2%9A%A1+Turning+Coffee+Into+Code+%7C+Bugs+Into+Features;%F0%9F%9A%80+Building+Tomorrow%27s+Technology+Today" alt="Typing SVG" />
+  </a>
 </p>
 
 <br>
@@ -300,13 +302,13 @@ console.log(kooru.getCurrentStatus());
 
 <!-- Stats Grid -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KOORUMAHEY&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=4ECDC4&icon_color=FFE66D&text_color=FFFFFF&border_color=4ECDC4&hide_border=false&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KOORUMAHEY&theme=radical&background=1a1a2e&ring=4ECDC4&fire=FF6B6B&currStreakLabel=FFE66D&border=4ECDC4" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KOORUMAHEY&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=4ECDC4&icon_color=FFE66D&text_color=FFFFFF&border_color=4ECDC4&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=KOORUMAHEY&theme=radical&background=1a1a2e&ring=4ECDC4&fire=FF6B6B&currStreakLabel=FFE66D&border=4ECDC4" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOORUMAHEY&layout=compact&theme=radical&bg_color=1a1a2e&title_color=4ECDC4&text_color=FFFFFF&border_color=4ECDC4&hide_border=false&langs_count=10" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KOORUMAHEY&theme=radical&utcOffset=5.5" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOORUMAHEY&layout=compact&theme=radical&bg_color=1a1a2e&title_color=4ECDC4&text_color=FFFFFF&border_color=4ECDC4&langs_count=10" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KOORUMAHEY&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 <br>
