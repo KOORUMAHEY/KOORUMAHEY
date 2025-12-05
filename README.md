@@ -19,7 +19,7 @@
 <!-- Dynamic Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Crafting+Digital+Experiences+%7C+Puducherry;%F0%9F%8E%A8+Where+Creativity+Meets+Code;%E2%9A%A1+Turning+Coffee+Into+Code+%7C+Bugs+Into+Features;%F0%9F%9A%80+Building+Tomorrow%27s+Technology+Today" alt="Typing SVG" />
+    <img class={padding: 10px;} src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Crafting+Digital+Experiences+%7C+Puducherry;%F0%9F%8E%A8+Where+Creativity+Meets+Code;%E2%9A%A1+Turning+Coffee+Into+Code+%7C+Bugs+Into+Features;%F0%9F%9A%80+Building+Tomorrow%27s+Technology+Today" alt="Typing SVG" />
   </a>
 </p>
 
