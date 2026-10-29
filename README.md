@@ -1,217 +1,82 @@
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#10B981&color_dots=#161b22,#064e3b,#047857,#10b981,#34d399
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}<td width="50%">
-
-### Building
-
-- TT2DNN
-- Knowledge Minds Scheduler
-- PondiMediTourism
-- BookYourSlots
-
-</td>
-<td width="50%">
-
-### Exploring
-
-- ROS & ROS2
-- Reinforcement Learning
-- LLM Systems
-- AI Research
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Arsenal
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,php,mysql,postgres" />
-</p>
-
-### AI • Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" />
-</p>
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### TT2DNN
-
-AI-powered university timetable generator using Deep Neural Networks.
-
-**Stack**
-
-- Python
-- ML
-- Streamlit
-- MLX
-
-</td>
-<td width="50%">
-
-### Knowledge Minds Scheduler
-
-Automated academic scheduling platform.
-
-**Stack**
-
-- React
-- PHP
-- MySQL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### PondiMediTourism
-
-Medical tourism platform for Puducherry.
-
-**Stack**
-
-- Next.js
-- Fastify
-- PostgreSQL
-
-</td>
-<td width="50%">
-
-### BookYourSlots
-
-Healthcare appointment platform.
-
-**Stack**
-
-- Next.js
-- Firebase
-- MongoDB
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=koorumahey&show_icons=true&theme=github_dark&hide_border=true&title_color=10B981&icon_color=10B981"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koorumahey&layout=compact&theme=github_dark&hide_border=true&title_color=10B981"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=koorumahey&theme=github-dark&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981"/>
-</p>
-
----
-
-## Contribution Universe
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=koorumahey&theme=github-dark&hide_border=true&color=10B981&line=10B981&point=FFFFFF"/>
-</p>
-
----
-
-## Knowledge Minds
-
-```text
-Small Steps.
-Build Big Worlds.
-
-BUILD  <  LEARN  <  EXPLORE  <  IMPACT
-```
-
----
-
-## Currently Learning
-
-- Deep Learning
-- Robotics Engineering
-- ROS2
-- Reinforcement Learning
-- LLM Architecture
-- AI Systems Design
-
----
-
-## Vision
-
-> Building intelligent technology that bridges research and real-world impact.
-
-Whether it's AI, Robotics, Full Stack Development, or future autonomous systems—
-
-**I'm building one project at a time.**
-
----
-
-<div align="center">
-
-### Connect
-
-[Portfolio](https://koorumahey.com) • [GitHub](https://github.com/koorumahey)
-
-**Thalaivar Nerantharam**
-
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#04201a"/>
+    </linearGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ecfdf5"/>
+      <stop offset="35%" stop-color="#34d399"/>
+      <stop offset="70%" stop-color="#10B981" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <path id="o1" d="M270,210 a130,40 0 1,1 260,0 a130,40 0 1,1 -260,0"/>
+    <path id="o2" d="M180,210 a220,70 0 1,1 440,0 a220,70 0 1,1 -440,0"/>
+    <path id="o3" d="M80,210 a320,105 0 1,1 640,0 a320,105 0 1,1 -640,0"/>
+  </defs>
+
+  <rect width="800" height="400" rx="18" fill="url(#bg)"/>
+
+  <!-- stars -->
+  <g fill="#ffffff">
+    <circle cx="60" cy="40" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="90" r="1"><animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="30" r="1.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="50" r="1.2"><animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="80" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="300" r="1"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="40" cy="330" r="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="370" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="120" cy="370" r="1.2"><animate attributeName="opacity" values="1;0.3;1" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="460" cy="25" r="1"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- shooting star -->
+  <line x1="0" y1="0" x2="60" y2="20" stroke="#a7f3d0" stroke-width="1.5" stroke-linecap="round" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.05;0.15;1" dur="7s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="100,20;500,150;500,150" keyTimes="0;0.15;1" dur="7s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- title -->
+  <text x="400" y="52" text-anchor="middle" fill="#10B981" font-size="30" font-weight="700" letter-spacing="10" filter="url(#glow)">CODEVERSE</text>
+  <text x="400" y="76" text-anchor="middle" fill="#94a3b8" font-size="12" letter-spacing="3">THE UNIVERSE I'M BUILDING</text>
+
+  <!-- orbits -->
+  <g fill="none" stroke="#10B981" stroke-opacity="0.25" stroke-dasharray="4 6">
+    <use href="#o1"/><use href="#o2"/><use href="#o3"/>
+  </g>
+
+  <!-- core -->
+  <circle cx="400" cy="210" r="42" fill="url(#core)">
+    <animate attributeName="r" values="38;46;38" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="210" r="16" fill="#ecfdf5" filter="url(#glow)"/>
+
+  <!-- planets -->
+  <g>
+    <circle r="8" fill="#34d399" filter="url(#glow)"/>
+    <text y="-14" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="600">AI / ML</text>
+    <animateMotion dur="9s" repeatCount="indefinite"><mpath href="#o1"/></animateMotion>
+  </g>
+  <g>
+    <circle r="10" fill="#22d3ee" filter="url(#glow)"/>
+    <text y="-16" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="600">ROBOTICS</text>
+    <animateMotion dur="16s" repeatCount="indefinite"><mpath href="#o2"/></animateMotion>
+  </g>
+  <g>
+    <circle r="9" fill="#a78bfa" filter="url(#glow)"/>
+    <text y="-15" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="600">FULL STACK</text>
+    <animateMotion dur="24s" repeatCount="indefinite"><mpath href="#o3"/></animateMotion>
+  </g>
+  <g>
+    <circle r="7" fill="#fbbf24" filter="url(#glow)"/>
+    <text y="-13" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="600">RESEARCH</text>
+    <animateMotion dur="24s" begin="-12s" repeatCount="indefinite"><mpath href="#o3"/></animateMotion>
+  </g>
+
+  <text x="400" y="385" text-anchor="middle" fill="#64748b" font-size="11" letter-spacing="4">BUILD  &lt;  LEARN  &lt;  EXPLORE  &lt;  IMPACT</text>
+</svg>
