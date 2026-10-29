@@ -1,82 +1,218 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#020617"/>
-      <stop offset="100%" stop-color="#04201a"/>
-    </linearGradient>
-    <radialGradient id="core" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ecfdf5"/>
-      <stop offset="35%" stop-color="#34d399"/>
-      <stop offset="70%" stop-color="#10B981" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <path id="o1" d="M270,210 a130,40 0 1,1 260,0 a130,40 0 1,1 -260,0"/>
-    <path id="o2" d="M180,210 a220,70 0 1,1 440,0 a220,70 0 1,1 -440,0"/>
-    <path id="o3" d="M80,210 a320,105 0 1,1 640,0 a320,105 0 1,1 -640,0"/>
-  </defs>
+<!-- ═══════════════ HEADER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:064e3b,100:10B981&height=230&section=header&text=KOORU%20MAHEY&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Developer%20%E2%80%A2%20Aspiring%20Robotics%20Engineer&descAlignY=56&descSize=18" />
 
-  <rect width="800" height="400" rx="18" fill="url(#bg)"/>
+<div align="center">
 
-  <!-- stars -->
-  <g fill="#ffffff">
-    <circle cx="60" cy="40" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
-    <circle cx="150" cy="90" r="1"><animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/></circle>
-    <circle cx="250" cy="30" r="1.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
-    <circle cx="560" cy="50" r="1.2"><animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/></circle>
-    <circle cx="700" cy="80" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/></circle>
-    <circle cx="760" cy="300" r="1"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
-    <circle cx="40" cy="330" r="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.5s" repeatCount="indefinite"/></circle>
-    <circle cx="640" cy="370" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
-    <circle cx="120" cy="370" r="1.2"><animate attributeName="opacity" values="1;0.3;1" dur="3.8s" repeatCount="indefinite"/></circle>
-    <circle cx="460" cy="25" r="1"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.2s" repeatCount="indefinite"/></circle>
-  </g>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=800&color=10B981&center=true&vCenter=true&multiline=false&width=720&lines=%3E+Initializing+CODEVERSE...;Build+%3C+Learn+%3C+Explore+%3C+Impact;Training+neural+nets+%F0%9F%A7%A0;Teaching+robots+to+think+%F0%9F%A4%96;Shipping+full-stack+products+%F0%9F%9A%80;Knowledge+empowers+minds." />
 
-  <!-- shooting star -->
-  <line x1="0" y1="0" x2="60" y2="20" stroke="#a7f3d0" stroke-width="1.5" stroke-linecap="round" opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.05;0.15;1" dur="7s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="100,20;500,150;500,150" keyTimes="0;0.15;1" dur="7s" repeatCount="indefinite"/>
-  </line>
+<br/>
 
-  <!-- title -->
-  <text x="400" y="52" text-anchor="middle" fill="#10B981" font-size="30" font-weight="700" letter-spacing="10" filter="url(#glow)">CODEVERSE</text>
-  <text x="400" y="76" text-anchor="middle" fill="#94a3b8" font-size="12" letter-spacing="3">THE UNIVERSE I'M BUILDING</text>
+<a href="https://koorumahey.com"><img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=10B981"/></a>
+<a href="https://linkedin.com/in/koorumahey"><img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=10B981"/></a>
+<a href="https://github.com/koorumahey"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=10B981"/></a>
+<img src="https://komarev.com/ghpvc/?username=koorumahey&color=10B981&style=for-the-badge&label=VISITORS&abbreviated=true"/>
 
-  <!-- orbits -->
-  <g fill="none" stroke="#10B981" stroke-opacity="0.25" stroke-dasharray="4 6">
-    <use href="#o1"/><use href="#o2"/><use href="#o3"/>
-  </g>
+</div>
 
-  <!-- core -->
-  <circle cx="400" cy="210" r="42" fill="url(#core)">
-    <animate attributeName="r" values="38;46;38" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="400" cy="210" r="16" fill="#ecfdf5" filter="url(#glow)"/>
+<br/>
 
-  <!-- planets -->
-  <g>
-    <circle r="8" fill="#34d399" filter="url(#glow)"/>
-    <text y="-14" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="600">AI / ML</text>
-    <animateMotion dur="9s" repeatCount="indefinite"><mpath href="#o1"/></animateMotion>
-  </g>
-  <g>
-    <circle r="10" fill="#22d3ee" filter="url(#glow)"/>
-    <text y="-16" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="600">ROBOTICS</text>
-    <animateMotion dur="16s" repeatCount="indefinite"><mpath href="#o2"/></animateMotion>
-  </g>
-  <g>
-    <circle r="9" fill="#a78bfa" filter="url(#glow)"/>
-    <text y="-15" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="600">FULL STACK</text>
-    <animateMotion dur="24s" repeatCount="indefinite"><mpath href="#o3"/></animateMotion>
-  </g>
-  <g>
-    <circle r="7" fill="#fbbf24" filter="url(#glow)"/>
-    <text y="-13" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="600">RESEARCH</text>
-    <animateMotion dur="24s" begin="-12s" repeatCount="indefinite"><mpath href="#o3"/></animateMotion>
-  </g>
+<!-- ═══════════════ CODEVERSE ORBIT ═══════════════ -->
+<p align="center">
+  <img src="./assets/codeverse.svg" width="100%" alt="CODEVERSE: AI, Robotics, Full Stack and Research orbiting a core"/>
+</p>
 
-  <text x="400" y="385" text-anchor="middle" fill="#64748b" font-size="11" letter-spacing="4">BUILD  &lt;  LEARN  &lt;  EXPLORE  &lt;  IMPACT</text>
-</svg>
+<p align="center"><i>"Knowledge empowers minds, and minds build the future."</i></p>
+
+---
+
+## `$ ros2 run codeverse whoami`
+
+```python
+#!/usr/bin/env python3
+import rclpy
+from rclpy.node import Node
+
+
+class KooruMahey(Node):
+    def __init__(self):
+        super().__init__("kooru_mahey")
+        self.role      = ["AI Developer", "Aspiring Robotics Engineer", "Full Stack Dev"]
+        self.building  = ["TT2DNN", "Knowledge Minds Scheduler",
+                          "PondiMediTourism", "BookYourSlots"]
+        self.exploring = ["ROS2", "Reinforcement Learning", "LLM Systems", "AI Research"]
+        self.mission   = "Solve real-world problems with intelligent systems"
+        self.create_timer(1.0, self.loop)
+
+    def loop(self):
+        for phase in ["BUILD", "LEARN", "EXPLORE", "IMPACT"]:
+            self.get_logger().info(f"[{phase}] one project at a time...")
+
+
+def main():
+    rclpy.init()
+    rclpy.spin(KooruMahey())   # never stops building
+```
+
+---
+
+## 🛰️ Mission Control
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔨 Building
+`TT2DNN` · `Knowledge Minds Scheduler`<br/>
+`PondiMediTourism` · `BookYourSlots`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔭 Exploring
+`ROS & ROS2` · `Reinforcement Learning`<br/>
+`LLM Systems` · `AI Research`
+
+</td>
+</tr>
+</table>
+
+```text
+ TRAINING LOG ─────────────────────────────────────────────
+ Deep Learning          ████████████████░░░░   80%   ▲
+ Full Stack Dev         ██████████████████░░   90%   ▲
+ ROS2                   ██████████░░░░░░░░░░   50%   ▲
+ Reinforcement Learning ████████░░░░░░░░░░░░   40%   ▲
+ LLM Architecture       █████████░░░░░░░░░░░   45%   ▲
+ AI Systems Design      ███████████░░░░░░░░░   55%   ▲
+ ──────────────────────────────────────────────────────────
+ status: learning... epoch ∞
+```
+
+---
+
+## ⚙️ Tech Arsenal
+
+<div align="center">
+
+| Domain | Stack |
+|:--:|:--:|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,fastapi,php,mysql,postgres,mongodb,firebase&theme=dark" /> |
+| **AI • Data** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" /> |
+| **Robotics • Tools** | <img src="https://skillicons.dev/icons?i=ros,linux,git,github,docker,vscode,figma&theme=dark" /> |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 TT2DNN
+AI-powered university timetable generator using Deep Neural Networks.
+
+![Python](https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=10B981)
+![ML](https://img.shields.io/badge/ML-020617?style=flat-square&logo=scikitlearn&logoColor=10B981)
+![Streamlit](https://img.shields.io/badge/Streamlit-020617?style=flat-square&logo=streamlit&logoColor=10B981)
+![MLX](https://img.shields.io/badge/MLX-020617?style=flat-square&logo=apple&logoColor=10B981)
+
+![status](https://img.shields.io/badge/status-in_orbit-10B981?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 Knowledge Minds Scheduler
+Automated academic scheduling platform.
+
+![React](https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=10B981)
+![PHP](https://img.shields.io/badge/PHP-020617?style=flat-square&logo=php&logoColor=10B981)
+![MySQL](https://img.shields.io/badge/MySQL-020617?style=flat-square&logo=mysql&logoColor=10B981)
+
+![status](https://img.shields.io/badge/status-in_orbit-10B981?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 PondiMediTourism
+Medical tourism platform for Puducherry.
+
+![Next.js](https://img.shields.io/badge/Next.js-020617?style=flat-square&logo=nextdotjs&logoColor=10B981)
+![Fastify](https://img.shields.io/badge/Fastify-020617?style=flat-square&logo=fastify&logoColor=10B981)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=10B981)
+
+![status](https://img.shields.io/badge/status-in_orbit-10B981?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 BookYourSlots
+Healthcare appointment platform.
+
+![Next.js](https://img.shields.io/badge/Next.js-020617?style=flat-square&logo=nextdotjs&logoColor=10B981)
+![Firebase](https://img.shields.io/badge/Firebase-020617?style=flat-square&logo=firebase&logoColor=10B981)
+![MongoDB](https://img.shields.io/badge/MongoDB-020617?style=flat-square&logo=mongodb&logoColor=10B981)
+
+![status](https://img.shields.io/badge/status-in_orbit-10B981?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📡 Telemetry
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=koorumahey&show_icons=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=10B981&icon_color=10B981&text_color=c9d1d9&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koorumahey&layout=compact&theme=github_dark&hide_border=true&bg_color=020617&title_color=10B981&text_color=c9d1d9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=koorumahey&theme=github-dark&hide_border=true&background=020617&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=c9d1d9&dates=8b949e"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=koorumahey&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+</div>
+
+---
+
+## 🌌 Contribution Universe
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=koorumahey&bg_color=020617&color=10B981&line=10B981&point=ffffff&area=true&area_color=10B981&hide_border=true" />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koorumahey/koorumahey/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/koorumahey/koorumahey/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 🧭 Vision
+
+> **Building intelligent technology that bridges research and real-world impact.**
+>
+> AI. Robotics. Full Stack. Autonomous systems.<br/>
+> **One project at a time.**
+
+```text
+   Small Steps.
+   Build Big Worlds.
+
+   BUILD  <  LEARN  <  EXPLORE  <  IMPACT
+```
+
+<div align="center">
+
+### ⚡ Thalaivar Nerantharam ⚡
+
+</div>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:064e3b,100:020617&height=120&section=footer&animation=twinkling" />
