@@ -25,7 +25,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 <h3>⚙️ Tech Arsenal</h3>
 
@@ -41,19 +41,25 @@
 <img src="https://skillicons.dev/icons?i=ros,linux,git,github,docker,vscode,figma&theme=dark"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 <h3>📊 GitHub Stats</h3>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=koorumahey&show_icons=true&rank_icon=github&bg_color=0a1517&border_color=123b33&title_color=34d399&icon_color=10B981&text_color=cbd5e1&border_radius=14"/>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koorumahey&layout=compact&bg_color=0a1517&border_color=123b33&title_color=34d399&text_color=cbd5e1&border_radius=14"/>
+<img src="https://img.shields.io/github/followers/koorumahey?style=for-the-badge&logo=github&label=Followers&labelColor=0a1517&color=10B981"/>
+<img src="https://img.shields.io/github/stars/koorumahey?style=for-the-badge&logo=github&label=Stars&labelColor=0a1517&color=10B981"/>
+
+<br/><br/>
+
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=koorumahey&background=0a1517&border=123b33&ring=10B981&fire=34d399&currStreakNum=ecfdf5&sideNums=ecfdf5&currStreakLabel=34d399&sideLabels=94a3b8&dates=64748b&border_radius=14"/>
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=koorumahey&bg_color=0a1517&color=94a3b8&line=10B981&point=ecfdf5&area=true&area_color=10B981&hide_border=true&radius=14"/>
+<h3 align="center">🌌 Contribution City</h3>
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar"/>
+</p>
 
 <p align="center">
   <picture>
