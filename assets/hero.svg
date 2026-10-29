@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#020708"/><stop offset=".55" stop-color="#03171a"/><stop offset="1" stop-color="#050b0d"/>
+    </linearGradient>
+    <radialGradient id="neb1" cx=".72" cy=".22" r=".5">
+      <stop offset="0" stop-color="#10B981" stop-opacity=".45"/><stop offset=".5" stop-color="#0d9488" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="neb2" cx=".3" cy=".75" r=".35">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".16"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="planet" cx=".75" cy=".7" r=".85">
+      <stop offset="0" stop-color="#5eead4"/><stop offset=".22" stop-color="#14b8a6"/><stop offset=".5" stop-color="#0f3d3a"/><stop offset="1" stop-color="#020c0c"/>
+    </radialGradient>
+    <radialGradient id="moon" cx=".3" cy=".3" r=".8">
+      <stop offset="0" stop-color="#1f4d48"/><stop offset="1" stop-color="#020c0c"/>
+    </radialGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6ee7b7"><animate attributeName="stop-color" values="#6ee7b7;#22d3ee;#6ee7b7" dur="6s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#34d399;#10B981" dur="6s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050b0d" stop-opacity="0"/><stop offset="1" stop-color="#050b0d"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+    <clipPath id="pc"><circle cx="190" cy="40" r="160"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="440" fill="url(#sky)"/>
+  <rect width="1200" height="440" fill="url(#neb1)"/>
+  <rect width="1200" height="440" fill="url(#neb2)"/>
+
+  <!-- stars -->
+  <g fill="#ffffff">
+    <animate attributeName="opacity" values=".3;1;.3" dur="2.8s" repeatCount="indefinite"/>
+    <circle cx="60" cy="230" r="1.1"/><circle cx="420" cy="60" r="1"/><circle cx="330" cy="215" r="1.3"/><circle cx="470" cy="120" r=".9"/>
+    <circle cx="690" cy="35" r="1.2"/><circle cx="820" cy="120" r="1"/><circle cx="1080" cy="40" r="1.4"/><circle cx="1150" cy="180" r="1"/>
+  </g>
+  <g fill="#ffffff">
+    <animate attributeName="opacity" values="1;.25;1" dur="4s" repeatCount="indefinite"/>
+    <circle cx="100" cy="260" r="1"/><circle cx="290" cy="250" r=".8"/><circle cx="520" cy="25" r="1"/><circle cx="760" cy="80" r="1.1"/>
+    <circle cx="900" cy="30" r=".9"/><circle cx="1010" cy="210" r="1"/><circle cx="1170" cy="90" r="1.2"/><circle cx="380" cy="150" r=".8"/>
+  </g>
+  <g fill="#a7f3d0">
+    <animate attributeName="opacity" values=".2;.9;.2" dur="3.4s" repeatCount="indefinite"/>
+    <circle cx="560" cy="80" r="1.3"/><circle cx="620" cy="110" r="1"/><circle cx="860" cy="200" r="1.2"/>
+    <circle cx="1120" cy="260" r="1"/><circle cx="440" cy="240" r="1"/><circle cx="740" cy="250" r=".9"/>
+  </g>
+
+  <!-- shooting stars -->
+  <line x1="0" y1="0" x2="70" y2="22" stroke="#a7f3d0" stroke-width="1.6" stroke-linecap="round" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.04;.12;1" dur="8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="420,10;820,135;820,135" keyTimes="0;.12;1" dur="8s" repeatCount="indefinite"/>
+  </line>
+  <line x1="0" y1="0" x2="50" y2="16" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.5;.54;.62;1" dur="8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="700,40;700,40;1000,135;1000,135" keyTimes="0;.5;.62;1" dur="8s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- big planet -->
+  <circle cx="190" cy="40" r="175" fill="#10B981" opacity=".22" filter="url(#blur)"/>
+  <circle cx="190" cy="40" r="160" fill="url(#planet)"/>
+  <g clip-path="url(#pc)" fill="none" stroke="#5eead4" stroke-opacity=".12" stroke-width="10">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="-30,0;30,0;-30,0" dur="30s" repeatCount="indefinite"/>
+      <ellipse cx="190" cy="60" rx="220" ry="18"/>
+      <ellipse cx="190" cy="120" rx="220" ry="12"/>
+      <ellipse cx="190" cy="165" rx="220" ry="8"/>
+    </g>
+  </g>
+  <g clip-path="url(#pc)" fill="#020c0c" opacity=".35">
+    <ellipse cx="260" cy="110" rx="16" ry="9"/><ellipse cx="300" cy="150" rx="10" ry="6"/><ellipse cx="220" cy="170" rx="12" ry="6"/>
+  </g>
+  <circle cx="190" cy="40" r="160" fill="none" stroke="#5eead4" stroke-width="2" stroke-opacity=".55" filter="url(#glow)"/>
+
+  <!-- moon -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-7;0,0" dur="7s" repeatCount="indefinite"/>
+    <circle cx="1005" cy="95" r="24" fill="url(#moon)" stroke="#34d399" stroke-opacity=".5"/>
+  </g>
+
+  <!-- back mountains -->
+  <path d="M0,440 V300 L50,280 L95,315 L150,265 L210,320 L260,300 L320,350 L400,370 L500,380 L600,372 L700,382 L800,368 L860,340 L930,300 L990,330 L1050,285 L1110,320 L1160,290 L1200,305 V440 Z" fill="#04201d" opacity=".9"/>
+
+  <!-- citadel -->
+  <path d="M870,370 V305 L876,290 L882,305 V370 Z M890,370 V265 L898,232 L906,265 V370 Z M914,370 V295 L922,275 L930,295 V370 Z M938,370 V250 L944,212 L950,250 V370 Z M958,370 V315 L965,298 L972,315 V370 Z" fill="#031513"/>
+  <g fill="#34d399">
+    <rect x="896" y="270" width="3" height="4"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></rect>
+    <rect x="942" y="262" width="3" height="4"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></rect>
+    <rect x="920" y="305" width="3" height="4"><animate attributeName="opacity" values="1;.3;1" dur="4s" repeatCount="indefinite"/></rect>
+    <rect x="874" y="318" width="3" height="4"><animate attributeName="opacity" values=".3;1;.3" dur="3.6s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- front mountains + fade -->
+  <path d="M0,440 V350 L80,330 L140,360 L220,345 L300,385 L420,400 L600,395 L780,402 L900,380 L980,355 L1060,370 L1130,345 L1200,360 V440 Z" fill="#020c0c"/>
+  <rect y="330" width="1200" height="110" fill="url(#fade)"/>
+
+  <!-- top-left tag -->
+  <rect x="40" y="38" width="3" height="58" fill="#10B981"/>
+  <text x="54" y="52" fill="#a7f3d0" font-size="11" letter-spacing="4">KNOWLEDGE MINDS</text>
+  <text x="54" y="74" fill="#e2e8f0" font-size="14">Knowledge empowers minds,</text>
+  <text x="54" y="93" fill="#e2e8f0" font-size="14">and minds build the future.</text>
+
+  <!-- center -->
+  <text x="600" y="100" text-anchor="middle" fill="url(#brand)" font-size="72" font-weight="900" letter-spacing="-2" filter="url(#glow)">KM
+    <animate attributeName="opacity" values=".85;1;.85" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="168" text-anchor="middle" fill="#f1f5f9" font-size="50" font-weight="300" letter-spacing="16">KOORU <tspan fill="url(#brand)" font-weight="600">MAHEY</tspan></text>
+  <text x="600" y="206" text-anchor="middle" fill="#a7f3d0" font-size="15" letter-spacing="5">AI DEVELOPER   |   ASPIRING ROBOTICS ENGINEER</text>
+  <text x="600" y="242" text-anchor="middle" fill="#cbd5e1" font-size="17" font-style="italic">“Knowledge empowers minds, and minds build the future.”</text>
+  <line x1="600" y1="262" x2="600" y2="262" stroke="#10B981" stroke-width="2" stroke-linecap="round">
+    <animate attributeName="x1" values="600;550;550" keyTimes="0;.3;1" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="600;650;650" keyTimes="0;.3;1" dur="5s" repeatCount="indefinite"/>
+  </line>
+  <text x="600" y="302" text-anchor="middle" font-size="16" font-weight="600" letter-spacing="6" fill="#10B981">
+    <tspan>BUILD<animate attributeName="fill" values="#10B981;#ecfdf5;#10B981;#10B981" keyTimes="0;.1;.25;1" dur="4s" begin="0s" repeatCount="indefinite"/></tspan>
+    <tspan fill="#475569">  &lt;  </tspan>
+    <tspan>LEARN<animate attributeName="fill" values="#10B981;#ecfdf5;#10B981;#10B981" keyTimes="0;.1;.25;1" dur="4s" begin="1s" repeatCount="indefinite"/></tspan>
+    <tspan fill="#475569">  &lt;  </tspan>
+    <tspan>EXPLORE<animate attributeName="fill" values="#10B981;#ecfdf5;#10B981;#10B981" keyTimes="0;.1;.25;1" dur="4s" begin="2s" repeatCount="indefinite"/></tspan>
+    <tspan fill="#475569">  &lt;  </tspan>
+    <tspan>IMPACT<animate attributeName="fill" values="#10B981;#ecfdf5;#10B981;#10B981" keyTimes="0;.1;.25;1" dur="4s" begin="3s" repeatCount="indefinite"/></tspan>
+  </text>
+
+  <!-- signature -->
+  <g transform="translate(1035,160) rotate(-14)" font-family="'Segoe Script','Brush Script MT','Lucida Handwriting',cursive" fill="#e2e8f0">
+    <path d="M10,-66 L18,-44 L30,-62 L42,-44 L50,-66 L47,-36 L13,-36 Z" fill="none" stroke="#e2e8f0" stroke-width="1.6" stroke-linejoin="round" filter="url(#glow)"/>
+    <text x="-40" y="0" font-size="30">Thalaivar</text>
+    <text x="-10" y="36" font-size="30">Nerantharam</text>
+    <path d="M-10,52 Q70,40 160,48" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-dasharray="180" stroke-dashoffset="180">
+      <animate attributeName="stroke-dashoffset" values="180;0;0;180" keyTimes="0;.3;.85;1" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

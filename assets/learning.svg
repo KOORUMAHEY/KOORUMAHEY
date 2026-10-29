@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+  <!-- learning card -->
+  <rect x="10" y="10" width="600" height="220" rx="16" fill="#0a1517" stroke="#123b33" stroke-width="1.5"/>
+  <rect x="10" y="10" width="600" height="220" rx="16" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-dasharray="130 1510">
+    <animate attributeName="stroke-dashoffset" from="0" to="-1640" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <path transform="translate(38,36)" d="M0,6 L11,1 L22,6 L11,11 Z M4,8 V14 C4,17 18,17 18,14 V8" fill="none" stroke="#34d399" stroke-width="2"/>
+  <text x="72" y="52" fill="#f1f5f9" font-size="20" font-weight="600">Currently Learning</text>
+
+  <g fill="#0d2226" stroke="#1f5c4f">
+    <rect x="40" y="76" width="126" height="30" rx="15"/><rect x="176" y="76" width="68" height="30" rx="15"/>
+    <rect x="254" y="76" width="192" height="30" rx="15"/><rect x="456" y="76" width="112" height="30" rx="15"/>
+    <rect x="40" y="118" width="150" height="30" rx="15"/><rect x="200" y="118" width="158" height="30" rx="15"/><rect x="368" y="118" width="180" height="30" rx="15"/>
+  </g>
+  <g fill="#10B981" opacity=".22">
+    <rect x="40" y="76" height="30" rx="15"><animate attributeName="width" values="0;100;100;0" keyTimes="0;.4;.9;1" dur="7s" repeatCount="indefinite"/></rect>
+    <rect x="176" y="76" height="30" rx="15"><animate attributeName="width" values="0;34;34;0" keyTimes="0;.4;.9;1" dur="7s" repeatCount="indefinite"/></rect>
+    <rect x="254" y="76" height="30" rx="15"><animate attributeName="width" values="0;80;80;0" keyTimes="0;.4;.9;1" dur="7s" repeatCount="indefinite"/></rect>
+    <rect x="456" y="76" height="30" rx="15"><animate attributeName="width" values="0;60;60;0" keyTimes="0;.4;.9;1" dur="7s" repeatCount="indefinite"/></rect>
+    <rect x="40" y="118" height="30" rx="15"><animate attributeName="width" values="0;70;70;0" keyTimes="0;.4;.9;1" dur="7s" repeatCount="indefinite"/></rect>
+    <rect x="200" y="118" height="30" rx="15"><animate attributeName="width" values="0;88;88;0" keyTimes="0;.4;.9;1" dur="7s" repeatCount="indefinite"/></rect>
+    <rect x="368" y="118" height="30" rx="15"><animate attributeName="width" values="0;95;95;0" keyTimes="0;.4;.9;1" dur="7s" repeatCount="indefinite"/></rect>
+  </g>
+  <g fill="#e2e8f0" font-size="13" text-anchor="middle">
+    <text x="103" y="96">Deep Learning</text><text x="210" y="96">ROS2</text>
+    <text x="350" y="96">Reinforcement Learning</text><text x="512" y="96">LLM Systems</text>
+    <text x="115" y="138">LLM Architecture</text><text x="279" y="138">AI Systems Design</text><text x="458" y="138">Robotics Engineering</text>
+  </g>
+  <text x="40" y="200" fill="#64748b" font-size="12" font-family="Consolas, 'Courier New', monospace">epoch ∞ · loss ↓ · curiosity ↑<tspan fill="#34d399"> ▌<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+  <text x="560" y="205" text-anchor="end" fill="#a7f3d0" font-size="20" font-family="'Segoe Script','Brush Script MT','Lucida Handwriting',cursive" transform="rotate(-6 560 205)">progress over perfection</text>
+
+  <!-- vision card -->
+  <rect x="630" y="10" width="560" height="220" rx="16" fill="#0a1517" stroke="#123b33" stroke-width="1.5"/>
+  <rect x="630" y="10" width="560" height="220" rx="16" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-dasharray="130 1430">
+    <animate attributeName="stroke-dashoffset" from="-780" to="-2340" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(660,30)">
+    <animateTransform attributeName="transform" type="translate" values="660,32;660,26;660,32" dur="2.4s" repeatCount="indefinite"/>
+    <path d="M10,0 C17,6 19,14 16,22 H4 C1,14 3,6 10,0 Z" fill="none" stroke="#34d399" stroke-width="2"/>
+    <circle cx="10" cy="10" r="2.5" fill="#34d399"/>
+    <path d="M4,16 L-1,24 L4,22 M16,16 L21,24 L16,22" fill="none" stroke="#34d399" stroke-width="2"/>
+    <path d="M6,24 L10,32 L14,24 Z" fill="#f59e0b"><animate attributeName="opacity" values="1;.4;1" dur=".3s" repeatCount="indefinite"/></path>
+  </g>
+  <text x="696" y="52" fill="#f1f5f9" font-size="20" font-weight="600">Vision</text>
+  <text fill="#cbd5e1" font-size="16">
+    <tspan x="660" y="100">Building intelligent technology that bridges</tspan>
+    <tspan x="660" y="124">research and real-world impact.</tspan>
+  </text>
+  <text x="660" y="160" fill="#64748b" font-size="13" letter-spacing="1">AI · ROBOTICS · FULL STACK · AUTONOMOUS SYSTEMS</text>
+  <g transform="rotate(-8 1060 195)">
+    <text x="1060" y="200" text-anchor="middle" fill="#e2e8f0" font-size="24" font-family="'Segoe Script','Brush Script MT','Lucida Handwriting',cursive">One project at a time.</text>
+    <path d="M960,214 Q1060,204 1160,212" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-dasharray="210" stroke-dashoffset="210">
+      <animate attributeName="stroke-dashoffset" values="210;0;0;210" keyTimes="0;.3;.85;1" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

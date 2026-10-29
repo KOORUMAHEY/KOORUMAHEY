@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 340" width="300" height="340" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <clipPath id="art"><rect x="12" y="12" width="276" height="150" rx="10"/></clipPath>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1a3d"/><stop offset=".55" stop-color="#9d2a6b"/><stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14505e"/><stop offset="1" stop-color="#04161c"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="298" height="338" rx="14" fill="#0a1517" stroke="#123b33" stroke-width="1.5"/>
+  <rect x="1" y="1" width="298" height="338" rx="14" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-dasharray="90 1182">
+    <animate attributeName="stroke-dashoffset" from="-636" to="-1908" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <g clip-path="url(#art)">
+    <rect x="12" y="12" width="276" height="105" fill="url(#sky)"/>
+    <circle cx="140" cy="110" r="22" fill="#fde68a" filter="url(#glow)">
+      <animate attributeName="cy" values="104;112;104" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="12" y="115" width="276" height="47" fill="url(#sea)"/>
+    <g stroke="#fde68a" stroke-linecap="round" stroke-width="2">
+      <line x1="125" y1="122" x2="155" y2="122"><animate attributeName="opacity" values=".8;.3;.8" dur="2s" repeatCount="indefinite"/></line>
+      <line x1="130" y1="130" x2="150" y2="130"><animate attributeName="opacity" values=".3;.8;.3" dur="2s" repeatCount="indefinite"/></line>
+      <line x1="135" y1="138" x2="145" y2="138"><animate attributeName="opacity" values=".7;.2;.7" dur="2.4s" repeatCount="indefinite"/></line>
+    </g>
+    <g stroke="#5eead4" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="14 10">
+      <line x1="0" y1="146" x2="300" y2="146"><animate attributeName="stroke-dashoffset" from="0" to="-48" dur="3s" repeatCount="indefinite"/></line>
+      <line x1="0" y1="155" x2="300" y2="155"><animate attributeName="stroke-dashoffset" from="0" to="48" dur="4s" repeatCount="indefinite"/></line>
+    </g>
+    <path d="M12,162 V128 L40,124 L70,130 L95,126 L110,162 Z" fill="#06120f"/>
+    <!-- lighthouse -->
+    <polygon points="241,66 300,48 300,84" fill="#fde68a"><animate attributeName="opacity" values=".05;.35;.05" dur="3s" repeatCount="indefinite"/></polygon>
+    <polygon points="241,66 182,50 182,82" fill="#fde68a"><animate attributeName="opacity" values=".35;.05;.35" dur="3s" repeatCount="indefinite"/></polygon>
+    <path d="M232,118 L236,72 L246,72 L250,118 Z" fill="#0b1215"/>
+    <rect x="235" y="61" width="12" height="10" fill="#fde68a" filter="url(#glow)"/>
+    <path d="M233,61 L241,53 L249,61 Z" fill="#0b1215"/>
+    <!-- birds -->
+    <g fill="none" stroke="#0b1215" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="translate" values="0,0;60,-6;0,0" dur="14s" repeatCount="indefinite"/>
+      <path d="M60,45 q5,-5 10,0 q5,-5 10,0"/><path d="M85,58 q4,-4 8,0 q4,-4 8,0"/>
+    </g>
+  </g>
+  <text x="20" y="196" fill="#34d399" font-size="19" font-weight="700">PondiMediTourism</text>
+  <path d="M266,182 h12 v12 M278,182 l-10,10" stroke="#64748b" stroke-width="1.8" fill="none"/>
+  <text fill="#cbd5e1" font-size="13.5">
+    <tspan x="20" y="224">Medical tourism platform for</tspan>
+    <tspan x="20" y="244">Puducherry: healthcare and</tspan>
+    <tspan x="20" y="264">wellness, in 13+ languages.</tspan>
+  </text>
+  <g fill="#0d2226" stroke="#1f5c4f">
+    <rect x="20" y="284" width="71" height="24" rx="12"/><rect x="99" y="284" width="71" height="24" rx="12"/><rect x="178" y="284" width="92" height="24" rx="12"/>
+  </g>
+  <g fill="#e2e8f0" font-size="12" text-anchor="middle">
+    <text x="55.5" y="300">Next.js</text><text x="134.5" y="300">Fastify</text><text x="224" y="300">PostgreSQL</text>
+  </g>
+</svg>
